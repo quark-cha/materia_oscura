@@ -16,7 +16,7 @@ Este trabajo presenta una hipótesis alternativa a la materia oscura, basada en 
 
 ### Figura 1: Velocidad real en ejes x, y, z según distancia
 
-![Figura 1: Velocidad en x, y, z](https://estradad.es/teorias/gaia_analisis/plots/velocidad_xyz.png)
+![Figura 1: Velocidad en x, y, z](https://estradad.es/teorias/gaia_analisis/plots/velocidad_asimetrics_notte_sur.png)
 
 *Las componentes Vx (verde), Vy (azul) y Vz (rojo) crecen en magnitud y en dispersión conforme aumenta la distancia al centro galáctico. Esto apunta a una dinámica expansiva desordenada y energética incompatible con la idea de un halo estable de materia oscura.*
 
