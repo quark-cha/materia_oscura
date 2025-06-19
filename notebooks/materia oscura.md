@@ -16,7 +16,7 @@ Este trabajo presenta una hipótesis alternativa a la materia oscura, basada en 
 
 ### Figura 1: Velocidad real en ejes x, y, z según distancia
 
-![Figura 1: Velocidad en x, y, z](https://estradad.es/teorias/gaia_analisis/plot/velocidad_xyz.png)
+![Figura 1: Velocidad en x, y, z](https://estradad.es/teorias/gaia_analisis/plots/velocidad_xyz.png)
 
 *Las componentes Vx (verde), Vy (azul) y Vz (rojo) crecen en magnitud y en dispersión conforme aumenta la distancia al centro galáctico. Esto apunta a una dinámica expansiva desordenada y energética incompatible con la idea de un halo estable de materia oscura.*
 
@@ -24,7 +24,7 @@ Este trabajo presenta una hipótesis alternativa a la materia oscura, basada en 
 
 ### Figura 2: Distribución en oleadas – Análisis por grafo
 
-![Figura 2: Oleadas desde el núcleo](https://estradad.es/teorias/gaia_analisis/plot/oleadas_grafo.png)
+![Figura 2: Oleadas desde el núcleo](https://estradad.es/teorias/gaia_analisis/plots/oleadas_grafo.png)
 
 *Las estrellas se agrupan en capas concéntricas o “oleadas” centradas en el núcleo galáctico, lo que sugiere una generación de materia episódica desde el agujero negro supermasivo central.*
 
@@ -32,7 +32,7 @@ Este trabajo presenta una hipótesis alternativa a la materia oscura, basada en 
 
 ### Figura 3: Velocidad tangencial frente a masa estelar
 
-![Figura 3: Velocidad vs. masa](https://estradad.es/teorias/gaia_analisis/plot/velocidad_masa.png)
+![Figura 3: Velocidad vs. masa](https://estradad.es/teorias/gaia_analisis/plots/velocidad_masa.png)
 
 *A partir de cierto umbral, la velocidad tangencial deja de aumentar con la masa estelar. Este desacoplamiento implica que la masa no es la principal variable en la dinámica galáctica externa y refuerza la hipótesis de una fuerza impulsora originada en el centro.*
 
