@@ -1,0 +1,7 @@
+# Ignorar archivos CSV y temporales
+*.csv
+*.gpickle
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+.env
