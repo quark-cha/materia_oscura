@@ -1,7 +1,21 @@
-# Ignorar archivos CSV y temporales
+# Archivos que no deben subirse
 *.csv
 *.gpickle
+*.pkl
+*.h5
+*.log
+*.tmp
+*.bak
+
+# Python
 __pycache__/
 *.pyc
-*.ipynb_checkpoints
-.env
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.venv/
+env/
