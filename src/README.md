@@ -46,8 +46,9 @@ src/
 Directorios de trabajo:
 - Figuras: /plots/tmp
 - Datos: /datos
-- documentos: /doc   # Resultados las investigaciones y desarroyo de ideas 
-
+- documentos: /docs   # Resultados de investigaciones y desarroyo de ideas derivadas
+- ayudas sobre el codigo: /src/help
+- Jupyter Notebooks: /notebooks
 ---
 
 Cómo Usar el Sistema

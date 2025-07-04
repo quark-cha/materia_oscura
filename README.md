@@ -6,6 +6,8 @@ Repositorio para el análisis galáctico con datos del catálogo Gaia, centrado 
 
 Este proyecto contiene scripts en Python para procesar y analizar datos astronómicos, principalmente relacionados con la dinámica y distribución de las estrellas lo que pone en cuestión la existencia de materia oscura en nuestra galaxia. El código principal se encuentra en la carpeta [`src/`](./src).
 
+👉 [Mi historia técnica y trayectoria profesional](./LEGADO_TECNICO.md)
+
 ## Estructura del repositorio
 
 ## Estructura del repositorio

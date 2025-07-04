@@ -25,8 +25,9 @@ start https://github.com/settings/keys
 pause
 
 echo.
-echo Probando conexión SSH con GitHub...
+echo Probandop conexión SSH con GitHub...
 ssh -T git@github.com
 
 pause
 endlocal
+ 
