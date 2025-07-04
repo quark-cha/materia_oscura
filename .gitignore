@@ -1,4 +1,4 @@
-# Archivos que no deben subirse
+# Archivos de datos
 *.csv
 *.gpickle
 *.pkl
@@ -7,15 +7,29 @@
 *.tmp
 *.bak
 
-# Python
+# Archivos generados por notebooks
+.ipynb_checkpoints/
+
+# Archivos de Python compilados
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Jupyter
-.ipynb_checkpoints/
-
 # Entornos virtuales
 .venv/
+venv/
 env/
+ENV/
+
+# Archivos de configuración personales
+*.env
+*.DS_Store
+Thumbs.db
+
+# Historial de Jupyter (por si acaso)
+.jupyter/
+
+# Carpetas de pruebas o salidas temporales
+/tmp/
+test-output/
