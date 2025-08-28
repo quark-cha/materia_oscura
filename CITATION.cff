@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si utilizas este trabajo, por favor cítalo con la siguiente referencia:"
+authors:
+  - family-names: "Estrada Díaz"
+    given-names: "Víctor"
+    orcid: "https://orcid.org/0000-0001-9942-1021"
+title: "Materia oscura – análisis de velocidades GSM con Gaia"
+version: "1.0.0"
+doi: "10.5281/zenodo.15245768"
+date-released: "2025-01-15"
+license: "CC-BY-SA-4.0"
+repository-code: "https://github.com/quark-cha/materia_oscura"
+url: "https://estradad.es/teorias"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Estrada Díaz"
+      given-names: "Víctor"
+      orcid: "https://orcid.org/0000-0001-9942-1021"
+  title: "Materia oscura – análisis de velocidades GSM con Gaia"
+  year: 2025
+  doi: "10.5281/zenodo.15245768"
+  journal: "Zenodo"
